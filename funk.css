@@ -1,0 +1,161 @@
+body {
+	background-color: #000;	
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 480px;
+
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+	#header {
+		margin-left: auto;
+		margin-right: auto;
+
+		width: 317px;
+	}
+
+		#header a {
+				font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+				color: #fff;
+				text-decoration: none;
+		}
+
+		#header a:hover {
+				color:  #5ca0b3;
+		}
+
+	#main {
+		margin-left: auto;
+		margin-right: auto;
+	
+		width: 480px;
+		height: 100%;
+
+		border: 1px solid white;
+	}
+
+		#nav {
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 10px;
+
+			width: 375px;
+
+			
+		}
+
+			#nav a {
+				margin: 22px;
+
+				font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+				color: #fff;
+				text-decoration: none;
+			}
+
+			#nav a:hover {
+				color:  #e36c0a;
+			}
+
+
+		#vid {
+			margin-left: auto;
+			margin-right: auto;
+	
+			width: 480px;
+			height: 100%;
+		}
+
+#Footer {
+	margin-left: auto;
+	margin-right: auto;
+	Margin-top: .5em;
+	
+	width: 109px;
+	height: 100px;
+
+}
+
+#audWrap {
+	margin: 35px;
+}
+
+
+
+#glitchWrap {
+	margin: 35px;
+	margin-top: 0px;
+}
+
+#vidWrap {
+	margin: 35px;
+	margin-bottom: 0px;
+}
+
+	.vidTitle {
+		margin: 0px;
+		
+		width: 400px;
+	}
+
+	.vidBox {
+		margin: 0px;
+		
+		height: 220px;
+		width: 400px;
+		
+		
+	}
+
+	.vidImg {
+		float: left;
+
+		border: 1px solid white;
+	}
+
+	.vidExpl {
+		float: right;
+
+		width: 175px;
+		height: 200px;
+	}
+
+#aboutWrap {
+	margin: 35px;
+}
+
+#contactWrap {
+	margin: 35px;
+}
+	#contactWrap a {
+		font-size: 10px;	
+		color: #5ca0b3;
+		text-decoration: none;
+	}
+	
+	#contactWrap a:hover {
+		font-size: 10px;	
+		color: #e36c0a;
+	}
+	
+h2 {
+	font-size: 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #fff;	
+}
+
+h1 {
+	font-size: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #fff;	
+}
+
+p {
+	font-size: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #fff;
+}
